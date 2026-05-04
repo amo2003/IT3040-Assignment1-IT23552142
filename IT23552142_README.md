@@ -44,9 +44,9 @@ The main objective is to identify cases where **chat-style Singlish input is inc
 IT3040-Assignment1-IT23552142/
 │
 ├── test_automation/
-├── Assignment 1 - Test cases.xlsx   # Test cases & results
+├── IT23552142 - Test cases.xlsx   # Test cases & results
 ├── README.md
-└── requirements.txt
+└── IT23552142_Requirements.txt
 ```
 
 ---
@@ -107,7 +107,7 @@ python test_automation/test_script.py
 The execution results are saved in:
 
 ```
-Assignment 1 - Test cases.xlsx
+IT23552142 - Test cases.xlsx
 ```
 
 This file includes:
